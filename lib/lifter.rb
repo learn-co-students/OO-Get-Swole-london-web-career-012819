@@ -40,4 +40,4 @@ class Lifter
   end
 end
 
-# binding.pry
+# binding.pr
