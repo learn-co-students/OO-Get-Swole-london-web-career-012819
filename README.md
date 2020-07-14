@@ -18,9 +18,9 @@ Here's what we need to be able to do.
 
 **Lifter**
 
-  - Get a list of all lifters
+  - Get a list of all lifters[X]
 
-  - Get a list of all the memberships that a specific lifter has
+  - Get a list of all the memberships that a specific lifter has[X]
 
   - Get a list of all the gyms that a specific lifter has memberships to
 
